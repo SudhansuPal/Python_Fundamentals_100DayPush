@@ -1,0 +1,9 @@
+x = 2
+y = 3
+x+=y
+x-=y
+x*=y
+x/=y
+x//=y
+
+print(x)
