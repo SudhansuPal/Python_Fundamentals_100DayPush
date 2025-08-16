@@ -13,5 +13,5 @@ print(x,y,z)
 
 age=20
 Name="Pal"
-print(f" My name is {Name} and i am {age} years old")
+print(f" My name is {Name} and i am {age} years old.")
 
