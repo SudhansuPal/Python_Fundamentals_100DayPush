@@ -23,15 +23,6 @@ This repository is my personal commitment to learning and mastering Python by co
 
 ---
 
-## 🚦 Progress Tracker
-- [x] Day 1: Variables
-- [ ] Day 2: _Coming soon..._
-- [ ] Day 3: _Coming soon..._
-- ...
-- [ ] Day 100: _Coming soon..._
-
----
-
 ## 🛠️ How to Use
 1. Clone the repo:
    ```bash
