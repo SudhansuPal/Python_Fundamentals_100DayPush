@@ -1,15 +1,15 @@
-# 🚀 Python Fundamentals: 100 Days of Code Challenge
+# 🚀 Python Fundamentals: 50 Days of Code Challenge
 
-Welcome to my **100 Days of Python** journey! 🐍
+Welcome to my **50 Days of Python** journey! 🐍
 
 ---
 
 ## 🌟 About This Repo
-This repository is my personal commitment to learning and mastering Python by coding every day for 100 days. Here, I push `.py` files daily, documenting my progress, experiments, and discoveries as I immerse myself in the world of programming and computer science.
+This repository is my personal commitment to learning and mastering Python by coding every day for 50 days. Here, I push `.py` files daily, documenting my progress, experiments, and discoveries as I immerse myself in the world of programming and computer science.
 
 ---
 
-## ✨ Why 100 Days?
+## ✨ Why 50 Days?
 - Build a consistent coding habit
 - Deepen my understanding of Python fundamentals
 - Explore real-world applications and projects
